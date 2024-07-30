@@ -1,10 +1,8 @@
-### Hi there, call me Furfles 👋 !!!!
+### Hi there, call me Kelvin 👋 !!!!
 
-#### I'm a Full-Stack Developer working in São Paulo, Brasil.
+#### I'm a Senior Developer working in São Paulo, Brasil.
 
-- 🔭 I’m currently working on Albert einstein
-- 🌱 I’m currently learning JS/TS/REACT/NODE/GRAPHQL/AWS
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on ACT Digital
 - ⚡ Fun fact: My second love is development, the first is History
 
 - 📫 How to reach me:
