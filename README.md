@@ -3,7 +3,7 @@
 #### I'm a Senior Developer working in São Paulo, Brasil.
 
 - 🔭 I’m currently working on ACT Digital
-- ⚡ Fun fact: My second love is development, the first is History
+- ⚡ Technologies: Javascript(Typescript), Python, Node, React, Nest, Next, Angular, Vue
 
 - 📫 How to reach me:
 
