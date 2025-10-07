@@ -8,4 +8,3 @@
 
 [<img src="https://raw.githubusercontent.com/kfurfles/kfurfles/main/assets/email.svg" height="40em" align="center" alt="Send me an email" title="Send me an email"/>](mailto:kelvinsilva.ksv@gmail.com) [<img src="https://raw.githubusercontent.com/kfurfles/kfurfles/main/assets/linkedin.svg" height="40em" align="center" alt="Kelvin linkedin profile" title="Kelvin linkedin profile"/>](https://www.linkedin.com/in/kelvin-silva-650045a9/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfurfles)](https://github.com/kfurfles/github-readme-stats)
