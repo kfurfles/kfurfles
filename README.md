@@ -1,6 +1,6 @@
 ### Hi there, call me Kelvin 👋 !!!!
 
-#### I'm a Senior Developer working in São Paulo, Brasil.
+#### I'm a Senior Developer working in São Paulo, Brasil
 
 - ⚡ Technologies: Javascript(Typescript), Python, Go, Node, React, Nest, Next, Angular, Vue
 
